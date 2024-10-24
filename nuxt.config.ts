@@ -6,7 +6,8 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
     '@vueuse/nuxt',
     'shadcn-nuxt',
-    '@nuxt/eslint'
+    '@nuxt/eslint',
+    'nuxt-auth-utils'
   ],
   shadcn: {
     /**
